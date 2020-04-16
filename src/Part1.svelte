@@ -30,7 +30,7 @@ pre {
 <p>Hello Rhyd! Four of your colleagues have just come in with information to help you on your way. Or at least that is what they've said, I'm not sure what that information is. They are all wearing Earth clothing with different colors. Each is wearing a hat, shirt, and a pair of pants. They each came in one at a time, showcasing their clothing, although I'm not sure the significance.</p>
 
 <ul>
-  <li>No shirts are the same color, two of the hats were the same color, as were two of the pants, although not the same color.</li>
+  <li>No two shirts were the same color, however, two of the hats were the same color, as were two of the pairs of pants.</li>
   <li>No single colleague was wearing two articles of the same color.</li>
   <li>Caltor came in last wearing green pants.</li>
   <li>The four were, in some order, Paxon, the only one wearing white pants, the only one wearing a red hat and the first through the door (who wore a yellow shirt).</li>
