@@ -3,18 +3,16 @@ ul > li {
   margin: 0.25rem 0;
 }
 .puzzle {
-  background-color: hsl(15, 100%, 50%);
+  border: 1px solid hsl(15, 100%, 50%);
   color: #fff;
-  width: 100vw;
-  margin: 0;
-  left: 50%;
-  position: relative;
-  transform: translateX(-50%);
   padding: 1rem 2rem;
   box-sizing: border-box;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+blockquote {
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 }
 pre {
   margin: 0;
