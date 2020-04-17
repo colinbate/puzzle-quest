@@ -21,7 +21,7 @@ pre {
 <p>Hello, intrepid puzzler!</p>
 
 <p>
-  My name is Rhyd, and I am trying to make my way to Earth. My people love visiting you; however, it is my first time, and I seem to have lost my way. I have tried to contact my own space command. Transmission quality is not high, and messages take forever to receive. Perhaps you can help me make sense of the last transmission and find my way to your beautiful planet.
+  My name is Rhyd, and I am trying to make my way to Earth. My people love visiting you; however, it is my first time, and I seem to have lost my way. I have tried to contact my own space command for help. Transmission quality is not high, and messages take forever to receive. Perhaps you can help me make sense of the last transmission and find my way to your beautiful planet.
 </p>
 
 <p>As you will see, some parts of the message are garbled. My people are very logical but not very straightforward. We like to speak in riddles at times. I apologize if this makes things more complicated. I'm hoping that you can make more sense of it than I can.</p>
