@@ -1,6 +1,6 @@
 <style>
-ul > li {
-  margin: 0.25rem 0;
+ol > li {
+  margin: 0.3rem 0;
 }
 .puzzle {
   border: 1px solid hsl(15, 100%, 50%);
