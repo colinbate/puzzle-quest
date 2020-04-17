@@ -34,8 +34,8 @@ pre {
   <li>No single colleague was wearing two articles of the same color.</li>
   <li>Caltor came in last wearing green pants.</li>
   <li>The four were, in some order, Paxon, the only one wearing white pants, the only one wearing a red hat and the first through the door (who wore a yellow shirt).</li>
-  <li>Lipgrum entered just after Paxon, and was not wearing red or green.</li>
-  <li>Trum was wearing the same color hat as the 3rd through the door.</li>
+  <li>Taplaic entered just after Paxon, and was not wearing red or green.</li>
+  <li>Staal was wearing the same color hat as the 3rd through the door.</li>
   <li>The black garments were a hat and a shirt, and there was also a single yellow pair of pants.</li>
   <li>PV JAMHYJ EBHB GOTB SPR PV VPB IVWGMPBR YAB IVOVHJ GOTB SPR HBR.</li>
   <li>Each color appeared exactly twice.</li>
