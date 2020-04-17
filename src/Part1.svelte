@@ -27,7 +27,7 @@ pre {
 <p>As you will see, some parts of the message are garbled. My people are very logical but not very straightforward. We like to speak in riddles at times. I apologize if this makes things more complicated. I'm hoping that you can make more sense of it than I can.</p>
 
 <blockquote>
-<p>Hello Rhyd! Four of your colleagues have just come in with information to help you on your way. Or at least that is what they've said, I'm not sure what that information is, it must be something about their wardrobe. They are all wearing Earth clothing with different colors. Each is wearing a hat, a shirt, and a pair of pants. They each came in one at a time, showcasing their clothing like a show.</p>
+<p>Hello Rhyd! Four of your colleagues have just come in with information to help you on your way. Or at least that is what they've said, I'm not sure what that information is, it must be something about their wardrobe. They are all wearing Earth clothing of different colors (one of which was blue). Each is wearing a hat, a shirt, and a pair of pants. They each came in one at a time, showcasing their clothing like a show.</p>
 
 <ul>
   <li>No two shirts were the same color; however, two of the hats were the same color, as were two of the pairs of pants.</li>
@@ -36,8 +36,7 @@ pre {
   <li>The four were, in some order, Paxon, the only one wearing white pants, the only one wearing a red hat and the first through the door (who wore a yellow shirt).</li>
   <li>Taplaic entered just after Paxon and was not wearing red or green.</li>
   <li>Staal was wearing the same color hat as the 3rd through the door.</li>
-  <li>The black garments were a hat and a shirt, and there was also a single yellow pair of pants.</li>
-  <li>PV JAMHYJ EBHB GOTB SPR PV VPB IVWGMPBR YAB IVOVHJ GOTB SPR HBR.</li>
+  <li>MCG QABTL TAKMCWHY OGNG B CBM BHJ B DCWNM, BHJ MCGNG OBD BADK B DWHYAG PGAAKO SBWN KR SBHMD.</li>
   <li>Each color appeared precisely two times.</li>
 </ul>
 </blockquote>
