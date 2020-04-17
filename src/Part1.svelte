@@ -59,7 +59,7 @@ F M L O F O D E M I L D
 </pre>
 </div>
 <p>
-  I do hope that you can help me. Somewhere in all this mess is the keyword that I need for my navigation computer to allow me to find Earth at last.
+  I do hope that you can help me. Somehow, I need to find a keyword for my navigation computer that should allow me to find Earth at last.
 </p>
 
 <p>Truly,<br>
