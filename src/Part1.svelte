@@ -17,10 +17,7 @@ blockquote {
 pre {
   margin: 0;
 }
-.warning {
-  padding: 1rem 2rem;
-  border: 1px solid hsl(15, 100%, 50%);
-}
+
 </style>
 <p>Hello, intrepid puzzler!</p>
 
