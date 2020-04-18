@@ -22,7 +22,6 @@ pre {
   border: 1px solid hsl(15, 100%, 50%);
 }
 </style>
-<div class="warning">There is an error in this puzzle; I am working on fixing it; I wouldn't recommend starting it at the moment.<br>&mdash; Colin (18 April, 00:22 ADT)</div>
 <p>Hello, intrepid puzzler!</p>
 
 <p>
@@ -32,17 +31,18 @@ pre {
 <p>As you will see, some parts of the message are garbled. My people are very logical but not very straightforward. We like to speak in riddles at times. I apologize if this makes things more complicated. I'm hoping that you can make more sense of it than I can.</p>
 
 <blockquote>
-<p>Hello Rhyd! Four of your colleagues have just come in with information to help you on your way. Or at least that is what they've said, I'm not sure what that information is, it must be something about their wardrobe. They are all wearing Earth clothing of different colors (one of which was blue). Each is wearing a hat, a shirt, and a pair of pants. They each came in one at a time, showcasing their clothing like a show.</p>
+<p>Hello Rhyd! Four of your colleagues have just come in with information to help you on your way. Or at least that is what they've said, I'm not sure what that information is, it must be something about their wardrobe. They are all wearing Earth clothing of different colors (one of which was blue). Each is wearing a hat, a shirt, and a pair of pants.</p>
 
 <ol>
-  <li>No two shirts were the same color; however, two of the hats were the same color, as were two of the pairs of pants.</li>
+  <li>No two shirts, hats, or pairs of pants were the same color.</li>
   <li>No single colleague was wearing two articles of the same color.</li>
-  <li>Caltor came in last wearing green pants.</li>
-  <li>The four were, in some order, Paxon, the only one wearing white pants, the only one wearing a red hat and the first through the door (who wore a yellow shirt).</li>
-  <li>Taplaic entered just after Paxon and was not wearing red or green.</li>
-  <li>Staal was wearing the same color hat as the 3rd through the door.</li>
-  <li>MCG QABTL TAKMCWHY OGNG B CBM BHJ B DCWNM, BHJ MCGNG OBD BADK B DWHYAG PGAAKO SBWN KR SBHMD.</li>
-  <li>Each color appeared precisely two times.</li>
+  <li>Each color appeared twice.</li>
+  <li>Caltor was wearing green pants.</li>
+  <li>The four were Paxon, the one wearing white pants, the one wearing a red hat and the one in the yellow shirt.</li>
+  <li>Neither Taplaic nor Paxon was wearing green.</li>
+  <li>CJPOP APOP IS AJTCP SO DPNNSA JRCY RIM CJP ENRKG YJTOC ARY ISC ASOI ATCJ CJP ENBP SO DPNNSA LRICY.</li>
+  <li>Staal was not wearing white.</li>
+  <li>Green and black were not worn together.</li>
 </ol>
 </blockquote>
 
