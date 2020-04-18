@@ -17,7 +17,12 @@ blockquote {
 pre {
   margin: 0;
 }
+.warning {
+  padding: 1rem 2rem;
+  border: 1px solid hsl(15, 100%, 50%);
+}
 </style>
+<div class="warning">There is an error in this puzzle; I am working on fixing it; I wouldn't recommend starting it at the moment.<br>&mdash; Colin (18 April, 00:22 ADT)</div>
 <p>Hello, intrepid puzzler!</p>
 
 <p>
