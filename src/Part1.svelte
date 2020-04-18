@@ -46,18 +46,18 @@ pre {
 <p>I'm not sure how useful it will be to know what colors everyone is wearing, but knowing my colleagues, it will be meaningful and symbolic. They are always joking about the places they've visited and trying to be taken to your Earth leaders. I don't think any of them have actually had the nerve to do so. At the end of the last transmission, I also received this stream of characters. I initially thought it might have been noise, but I feel like it may somehow be part of the overall message. It may be somewhat scrambled as well.</p>
 <div class="puzzle">
 <pre>
-K E N G F H R C Y F W Y
-C A F A S N I L R E B V
-G L F B W Y C I A R T F
-R E C O I M L B G D F O
-N K R N F P U R N Y I Y
-N S Y M C D B E U F I G
-I R H L A H E V H U U R
-L C A P F N A I E S F O
-L R E S L F Y L A E S F
-A S A L P F M L Y S V F
-T A I N O T S E K E N D
-F M L O F O D E M I L D
+D C J Y P C K N N V L P
+B Y O R D C J A O L Y M
+E V A A R B Y L U B T N
+C Y V G M N L U U Y A L
+N A I N O T S E N K C G
+N T S U P C K A H L K V
+I B Y H C Y M A N D P M
+L R B Y P R N I L R E B
+L I B R E V I L L E C A
+A H D G H A C E M V A M
+T M T L S V S C G G L Y
+P T S E P A D U B P V I
 </pre>
 </div>
 <p>
