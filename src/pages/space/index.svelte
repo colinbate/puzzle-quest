@@ -19,6 +19,7 @@ pre {
 }
 
 </style>
+<!-- routify:options index=0 -->
 <p>Hello, intrepid puzzler!</p>
 
 <p>

@@ -1,8 +1,11 @@
+import * as path from 'path';
 import svelte from 'rollup-plugin-svelte';
+import alias from '@rollup/plugin-alias';
 import resolve from '@rollup/plugin-node-resolve';
 import commonjs from '@rollup/plugin-commonjs';
 import livereload from 'rollup-plugin-livereload';
 import { terser } from 'rollup-plugin-terser';
+import { mdsvex } from "mdsvex";
 
 const production = !process.env.ROLLUP_WATCH;
 
@@ -15,6 +18,12 @@ export default {
 		file: 'public/build/bundle.js'
 	},
 	plugins: [
+		alias({
+			entries: [
+				{ find: '@', replacement: path.resolve('src') },
+				{ find: '~', replacement: path.resolve('src/components') },
+			]
+		}),
 		svelte({
 			// enable run-time checks when not in production
 			dev: !production,
@@ -22,7 +31,11 @@ export default {
 			// a separate file - better for performance
 			css: css => {
 				css.write('public/build/bundle.css');
-			}
+			},
+			extensions: [".svelte", ".md"],
+			preprocess: mdsvex({
+				extension: ".md"
+			})
 		}),
 
 		// If you have external dependencies installed from

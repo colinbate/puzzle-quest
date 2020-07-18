@@ -4,6 +4,13 @@ html, body {
   min-height: 100%;
 }
 
+:root {
+  --primary: #ff3e00;
+  --secondary: #00B389;
+  --secondard-light: #00FFC4;
+  --dark: #333;
+}
+
 body {
   background-color: #333;
   background-image: url(/galaxy.jpg);
@@ -27,7 +34,7 @@ pre, code {
 }
 
 a {
-  color: rgb(0,100,200);
+  color: var(--secondard-light);
   text-decoration: none;
 }
 
@@ -36,7 +43,7 @@ a:hover {
 }
 
 a:visited {
-  color: rgb(0,80,160);
+  color: var(--secondary);
 }
 
 label {
@@ -92,4 +99,8 @@ blockquote {
     margin: 0 -3rem;
     padding: 1px 3rem;
   }
+}
+
+code {
+  color: var(--primary);
 }
