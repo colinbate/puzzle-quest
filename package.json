@@ -2,7 +2,7 @@
   "name": "puzzle-quest",
   "version": "1.1.0",
   "scripts": {
-    "build": "rollup -c",
+    "build": "routify -b && rollup -c",
     "dev": "routify -c rundev",
     "rundev": "rollup -c -w",
     "start": "sirv public --single"
